@@ -30,7 +30,7 @@ VaultInfer-Portable/
 **1. Clone the repo**
 
 ```bash
-git clone [VaultInfer-Portable](https://github.com/Dhaksh-1106/VaultInfer-Portable)
+git clone <https://github.com/Dhaksh-1106/VaultInfer-Portable>
 cd VaultInfer-Portable
 ```
 
