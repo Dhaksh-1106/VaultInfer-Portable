@@ -1,3 +1,4 @@
-Sentence_Classifier_model/Old
+.venv
 __pycache__/
 *.pyc
+vault_model_cache
